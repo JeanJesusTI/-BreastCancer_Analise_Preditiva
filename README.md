@@ -1,2 +1,3 @@
 # -BreastCancer_Analise_Preditiva
-Algoritmo de Classificação para previsão do câncer de mama
+Neste Algoritimo foi utilizado a linguagem Python para para prever a ocorrência do câncer de mama
+com base nos dados disponibilizados pela UCI (https://archive.ics.uci.edu/ml/datasets.php)
